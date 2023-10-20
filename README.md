@@ -21,7 +21,7 @@ N'hésitez pas à explorer les projets que j'ai publiés sur ce profil. Vous y t
 ## Contact
 
 - 📧 [adam.daia@etu.umontpellier.fr]
-### - 💼 [Lien vers votre profil LinkedIn]
-### - 🐦 [Lien vers votre compte Twitter]
-### - 🌐 [Lien vers votre site web personnel]
+<!--  💼 [Lien vers votre profil LinkedIn]
+- 🐦 [Lien vers votre compte Twitter]
+- 🌐 [Lien vers votre site web personnel] -->
 
