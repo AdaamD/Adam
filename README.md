@@ -1,10 +1,10 @@
 # Bienvenue sur mon profil GitHub !
 
-Je suis Adam, étudiant en Master 1 Génie Logiciel à la Faculté des Sciences de Montpellier. Je suis passionné par la programmation, la conception de logiciels et la résolution de problèmes informatiques. Ce profil GitHub est un reflet de mon parcours académique et de mes projets personnels.
+Je suis Adam, étudiant en Master 2 Génie Logiciel à la Faculté des Sciences de Montpellier. Je suis passionné par la programmation, la conception de logiciels et la résolution de problèmes informatiques. Ce profil GitHub est un reflet de mon parcours académique et de mes projets personnels.
 
 ## À propos de moi
 
-- 🎓 Actuellement, je poursuis un Master 1 en Génie Logiciel à la Faculté des Sciences de Montpellier.
+- 🎓 Actuellement, je poursuis un Master 2 en Génie Logiciel à la Faculté des Sciences de Montpellier.
 - 💻 J'ai acquis des compétences dans divers langages de programmation et technologies liées au développement logiciel.
 - 🧐 Je suis  en quête d'apprentissage et de perfectionnement de mes compétences.
 
